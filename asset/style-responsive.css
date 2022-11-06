@@ -1,0 +1,239 @@
+@media only screen and (max-width: 768px) {
+    .first_page {
+        height: 700px;
+        margin-top: -700px;
+    }
+    .menu {
+        width: 100%;
+        font-size: 20px;
+        height: 700px;
+    }
+    .menu p {
+        font-size: 30px;
+    }
+    .menu-list {
+        padding-left: 40px;
+    }
+    .third_page p {
+        font-size: 15px;
+    }
+    h1 {
+        font-size: 25px;
+    }
+    .text {
+        font-size: 15px;
+        margin-bottom: 50px;
+        text-align: center;
+        font-family: myFirstFont;
+        color: #1F2940;
+    }
+    .build-image-left img {
+        width: 75%;
+    }
+    .build-content p {
+        font-size: 12px;
+    }
+    .fifth-page-left {
+        width: 100%;
+    }
+    .fifth-page {
+        display: flex;
+        flex-direction: column;
+    }
+    .background-2 {
+        object-fit: cover;
+        height: 700px;
+    }
+    .top-right {
+        top: 60px;
+        right: 20px;
+    }
+    .top-right img {
+        width: 50px;
+    }
+
+    .background-3 {
+        width: 90%;
+    }
+    .centered {
+        font-size: 97px;
+    }
+    .build {
+        width: 90%;
+    }
+    .build-content {
+        display: block;
+        margin: auto;
+
+    }
+    .build-image {
+        width: 90%;
+    }
+    .build-left, .built-right {
+        width: 100%;
+    }
+    .build-image-right {
+        font-size: 12px;
+    }
+    .build-image-left img {
+        width: 60%;
+    }
+    .build-left {
+        margin-top: 20px;
+    }
+    .fifth-page {
+        width: 90%;
+    }
+    .fifth-page-right {
+        width: 90%;
+    }
+    .fifth-page-right h1 {
+        font-size: 25px;
+    }
+    .six-text {
+        display: block;
+        width: 100%;
+    }
+    .six-text-left {
+        width: 80%;
+        margin: auto;
+        font-size: 25px;
+    }
+    .six-text-right {
+        width: 80%;
+        margin: auto;
+        margin-top: 20px;
+    }
+    .senventh-page {
+        display: block;
+        width: 90%;
+    }
+    .senventh-page-left, .senventh-page-right{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    /* .sixth-page {
+        display: block;
+    }
+    .sixth-page + .sixth-page {
+        transform: rotate(180deg);
+        direction: rtl; 
+    }
+
+    .sixth-page + .sixth-page .card {
+        transform: rotate(-180deg);
+        direction: ltr;  
+    } */
+    .eight-page {
+        display: block;
+        width: 100%;
+        margin: auto;
+    }
+    .eight-page-text {
+        width: 100%;
+        width: 90%;
+        margin:20px auto;
+
+    }
+    
+    .eight-page-image {
+        width: 100%;
+    }
+    
+    .eight-page-text p {
+        margin-bottom: 12px;
+    }
+    .nine-page {
+        width: 100%;
+        display: block;
+    }
+    .nine-page-left {
+        width: 90%;
+        margin: auto;
+    }
+    
+    .nine-page-right {
+        width: 100%;
+    }
+    .nine-page-download {
+        width: 60%;
+    }
+    .nine-page-download span {
+        margin-left: 12px;
+    }
+    .ten-page {
+        display: block;
+        width: 100%;
+        margin: 100px auto;
+    }
+    .ten-page-text {
+        width: 80%;
+        font-size: 12px;
+        margin: auto;
+    }
+    .ten-page-text-list {
+        line-height: 0.7;
+    }
+    
+    .ten-page-image {
+        width: 100%;
+    }
+    .end {
+        background-color: #1F2940;
+        padding: 20px 0;
+        width: 100%;
+    }
+    .footer h1 {
+        font-size: 30px;
+    }
+    .footer {
+        width: 100%;
+        margin: auto;
+        color: #fff;
+    }
+    .footer-flex {
+        display: block;
+        padding: 0 20px;
+    }
+    .footer-p {
+        font-size: 12px;
+        padding: 0 20px;
+        text-align: left;
+    }
+    
+    .footer-flex-item-p {
+        line-height: 1.5;
+        font-size: 15px;
+    }
+    .footer-flex-item {
+        margin-bottom: 20px;
+    }
+    .enquire {
+        text-align: center;
+        margin: auto;
+        background-color: #F2F2E8;
+        padding: 20px;
+    }
+    .enquire h1 {
+        margin-bottom: 50px;
+    }
+    .enquire-content {
+        display: block;
+        width: 100%;
+        margin: auto;
+    }
+    .enquire-content-left {
+        margin-bottom: 50px;
+    }
+    .last {
+        font-size: 11px;
+        font-style: italic;
+    }
+    .last {
+        display: block;
+        font-size: 12px;
+        width: 100%;
+        text-align: center;
+        padding: 0px;
+    }
+}
